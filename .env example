@@ -1,0 +1,6 @@
+IG_USERNAME= #Useraname for Instagram account
+IG_PASSWORD= #Password for Instagram account
+HEADLESS=false #Set to true to run browser in headless mode
+CONTENT_TYPE=both #Type of content to scrape: posts, reels, or both
+POSTS_PER_PROFILE=3 #Number of posts to scrape per profile
+REELS_PER_PROFILE=3 #Number of reels to scrape per profile
